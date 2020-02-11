@@ -33,6 +33,8 @@ body {
 }
 .item {
     flex-basis: 5rem;
+    color: #fff;
+    text-decoration: none;
 }
 /* MAIN CONTAINER*/
 .content-container {
